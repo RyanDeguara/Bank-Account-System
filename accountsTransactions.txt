@@ -1,0 +1,161 @@
+-------------
+IBAN: I523
+Account number: 972
+Funds: 120300
+Account Type: Checking Account
+Transactions 
+#1 Type: deposit. Amount: 500
+
+-------------
+IBAN: I523
+Account number: 972
+Funds: 120300
+Account Type: Checking Account
+Transactions 
+#1 Type: deposit. Amount: 500
+#2 Type: withdraw. Amount: 100
+
+-------------
+IBAN: I523
+Account number: 972
+Funds: 120300
+Account Type: Checking Account
+Transactions 
+#1 Type: deposit. Amount: 500
+#2 Type: withdraw. Amount: 100
+#3 Type: Transfer to IBAN: I1234. Amount: 100
+
+-------------
+IBAN: I1234
+
+Account number: 305
+Funds: 10500
+Account Type: Account Type: Checking Account
+
+Transactions 
+#1 Type: deposit. Amount: 500
+
+-------------
+IBAN: I1234
+
+Account number: 305
+Funds: 10500
+Account Type: Account Type: Checking Account
+
+Transactions 
+#1 Type: deposit. Amount: 500
+#2 Type: withdraw. Amount: 100
+
+-------------
+IBAN: I6879
+Account number: 990
+Funds: 4964
+Account Type: Checking Account
+Transactions 
+#1 Type: deposit. Amount: 5
+
+-------------
+IBAN: I6879
+Account number: 990
+Funds: 4964
+Account Type: Checking Account
+Transactions 
+#1 Type: deposit. Amount: 5
+#2 Type: withdraw. Amount: 1
+
+-------------
+IBAN: I6879
+Account number: 990
+Funds: 4964
+Account Type: Checking Account
+Transactions 
+#1 Type: deposit. Amount: 5
+#2 Type: withdraw. Amount: 1
+#3 Type: Transfer to IBAN: I1234. Amount: 40
+
+-------------
+IBAN: I762
+Account number: 249
+Funds: 100400
+Account Type: Savings Account
+Transactions 
+#1 Type: deposit. Amount: 500
+
+-------------
+IBAN: I762
+Account number: 249
+Funds: 100400
+Account Type: Savings Account
+Transactions 
+#1 Type: deposit. Amount: 500
+#2 Type: withdraw. Amount: 100
+
+-------------
+IBAN: I762
+Account number: 249
+Funds: 100400
+Account Type: Savings Account
+Transactions 
+#1 Type: deposit. Amount: 500
+#2 Type: withdraw. Amount: 100
+
+-------------
+IBAN: I4242
+Account number: 42424242
+Funds: 4800
+Account Type: Savings Account
+Transactions 
+#1 Type: deposit. Amount: 4
+
+-------------
+IBAN: I4242
+Account number: 42424242
+Funds: 4800
+Account Type: Savings Account
+Transactions 
+#1 Type: deposit. Amount: 4
+#2 Type: withdraw. Amount: 4
+
+-------------
+IBAN: I4242
+Account number: 42424242
+Funds: 4800
+Account Type: Savings Account
+Transactions 
+#1 Type: deposit. Amount: 4
+#2 Type: withdraw. Amount: 4
+#3 Type: Transfer to IBAN: I762. Amount: 200
+
+-------------
+IBAN: IBAN: I762
+
+Account number: 249
+Funds: 104100
+Account Type: Account Type: Savings Account
+
+Transactions 
+#1 Type: deposit. Amount: 4000
+
+-------------
+IBAN: IBAN: I762
+
+Account number: 249
+Funds: 104100
+Account Type: Account Type: Savings Account
+
+Transactions 
+#1 Type: deposit. Amount: 4000
+#2 Type: withdraw. Amount: 100
+
+-------------
+IBAN: IBAN: I762
+
+Account number: 249
+Funds: 104100
+Account Type: Account Type: Savings Account
+
+Transactions 
+#1 Type: deposit. Amount: 4000
+#2 Type: withdraw. Amount: 100
+#3 Type: Transfer to IBAN: I762. Amount: 400
+

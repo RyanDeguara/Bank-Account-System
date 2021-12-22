@@ -1,0 +1,42 @@
+
+Customer ID: 12
+IBAN: I4242
+Account Number: 1001
+Account Funds: 50000
+Account Type: Savings Account
+-------------
+
+Customer ID: 12
+IBAN: I1234
+Account Number: 305
+Account Funds: 10540
+Account Type: Checking Account
+-------------
+
+Customer ID: 8
+IBAN: I523
+Account Number: 972
+Account Funds: 120300
+Account Type: Checking Account
+-------------
+
+Customer ID: 10
+IBAN: I6879
+Account Number: 990
+Account Funds: 4964
+Account Type: Checking Account
+-------------
+
+Customer ID: 16
+IBAN: I762
+Account Number: 249
+Account Funds: 104100
+Account Type: Savings Account
+-------------
+
+Customer ID: 14
+IBAN: I4242
+Account Number: 42424242
+Account Funds: 4800
+Account Type: Savings Account
+-------------

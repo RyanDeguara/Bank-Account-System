@@ -1,0 +1,54 @@
+Name: Bob
+Age: 56
+Address: Milbourne
+customerID: 7
+
+Name: Ross
+Age: 35
+Address: Slane
+customerID: 8
+
+Name: Jerry
+Age: 24
+Address: Bray
+customerID: 9
+
+Name: Ruth
+Age: 67
+Address: Finglas
+customerID: 10
+
+Name: Josh
+Age: 12
+Address: Finglas
+customerID: 11
+
+Name: Jonno
+Age: 24
+Address: Tallaght
+customerID: 12
+
+Name: Richard
+Age: 45
+Address: Slane
+customerID: 13
+
+Name: Sunny
+Age: 23
+Address: Slane
+customerID: 14
+
+Name: Steve
+Age: 24
+Address: Milstreet
+customerID: 15
+
+Name: Stephen
+Age: 19
+Address: Milbrook
+customerID: 16
+
+Name: RYAN
+Age: 44224
+Address: WOOOOOHOOOOO
+customerID: 17
